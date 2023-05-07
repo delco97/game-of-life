@@ -1,6 +1,6 @@
 # Conway's Game of Life in C
 
- ![Demo](.docs/immagini/demo.gif)
+ ![Demo](./docs/immagini/demo.gif)
 
 
 This project implements Conway's Game of Life in C. The Game of Life is a cellular automaton that was devised by mathematician John Horton Conway in 1970. The game is played on a two-dimensional grid of cells, where each cell is either alive or dead. The game progresses in discrete steps, where the state of each cell in the grid is updated according to a set of rules.
